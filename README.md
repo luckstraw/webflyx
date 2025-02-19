@@ -1,3 +1,3 @@
 # webflyx
 
-read me coming soon
+this repository is just for practicing git commands
